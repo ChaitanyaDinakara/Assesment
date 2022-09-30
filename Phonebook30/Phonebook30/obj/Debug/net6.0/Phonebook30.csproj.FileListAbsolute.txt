@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\obj\Debug\net6.0\Phonebook30.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\obj\Debug\net6.0\Phonebook30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\obj\Debug\net6.0\Phonebook30.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\obj\Debug\net6.0\Phonebook30.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\obj\Debug\net6.0\Phonebook30.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\bin\Debug\net6.0\Phonebook30.exe
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\bin\Debug\net6.0\Phonebook30.deps.json
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\bin\Debug\net6.0\Phonebook30.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\bin\Debug\net6.0\Phonebook30.dll
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\bin\Debug\net6.0\Phonebook30.pdb
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\obj\Debug\net6.0\Phonebook30.dll
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\obj\Debug\net6.0\refint\Phonebook30.dll
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\obj\Debug\net6.0\Phonebook30.pdb
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\obj\Debug\net6.0\Phonebook30.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\Phonebook30\Phonebook30\obj\Debug\net6.0\ref\Phonebook30.dll
