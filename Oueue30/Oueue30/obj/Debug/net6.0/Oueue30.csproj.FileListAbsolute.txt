@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\bin\Debug\net6.0\Oueue30.exe
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\bin\Debug\net6.0\Oueue30.deps.json
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\bin\Debug\net6.0\Oueue30.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\bin\Debug\net6.0\Oueue30.dll
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\bin\Debug\net6.0\Oueue30.pdb
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\obj\Debug\net6.0\Oueue30.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\obj\Debug\net6.0\Oueue30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\obj\Debug\net6.0\Oueue30.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\obj\Debug\net6.0\Oueue30.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\obj\Debug\net6.0\Oueue30.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\obj\Debug\net6.0\Oueue30.dll
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\obj\Debug\net6.0\refint\Oueue30.dll
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\obj\Debug\net6.0\Oueue30.pdb
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\obj\Debug\net6.0\Oueue30.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\Oueue30\Oueue30\obj\Debug\net6.0\ref\Oueue30.dll
