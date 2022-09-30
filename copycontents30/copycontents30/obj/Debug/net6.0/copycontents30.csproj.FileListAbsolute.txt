@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\bin\Debug\net6.0\copycontents30.exe
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\bin\Debug\net6.0\copycontents30.deps.json
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\bin\Debug\net6.0\copycontents30.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\bin\Debug\net6.0\copycontents30.dll
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\bin\Debug\net6.0\copycontents30.pdb
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\obj\Debug\net6.0\copycontents30.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\obj\Debug\net6.0\copycontents30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\obj\Debug\net6.0\copycontents30.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\obj\Debug\net6.0\copycontents30.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\obj\Debug\net6.0\copycontents30.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\obj\Debug\net6.0\copycontents30.dll
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\obj\Debug\net6.0\refint\copycontents30.dll
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\obj\Debug\net6.0\copycontents30.pdb
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\obj\Debug\net6.0\copycontents30.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\copycontents30\copycontents30\obj\Debug\net6.0\ref\copycontents30.dll
