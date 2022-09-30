@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\bin\Debug\net6.0\file30.exe
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\bin\Debug\net6.0\file30.deps.json
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\bin\Debug\net6.0\file30.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\bin\Debug\net6.0\file30.dll
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\bin\Debug\net6.0\file30.pdb
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\obj\Debug\net6.0\file30.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\obj\Debug\net6.0\file30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\obj\Debug\net6.0\file30.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\obj\Debug\net6.0\file30.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\obj\Debug\net6.0\file30.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\obj\Debug\net6.0\file30.dll
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\obj\Debug\net6.0\refint\file30.dll
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\obj\Debug\net6.0\file30.pdb
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\obj\Debug\net6.0\file30.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\file30\file30\obj\Debug\net6.0\ref\file30.dll
